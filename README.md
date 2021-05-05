@@ -1,2 +1,2 @@
 # calculator
-[Calculator link]https://shuknorris.github.io/calculator/
+[Calculator link](https://shuknorris.github.io/calculator/)
